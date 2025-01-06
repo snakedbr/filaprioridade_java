@@ -1,1 +1,1 @@
-# filaprioridade_java
+Fila de prioridade feita em java com as funções de adicionar paciente, remover paciente e verificar fila. Usei o Java Swing para criar uma interface gráfica simples. O objeto é iniciado ao iniciar o programa, será solicitado usuário e senha (admin/admin).
